@@ -4,3 +4,10 @@ C:\Users\tmvld\OneDrive\바탕 화면\SHARP\OMOK\bin\Debug\OMOK.exe
 C:\Users\tmvld\OneDrive\바탕 화면\SHARP\OMOK\bin\Debug\OMOK.pdb
 C:\Users\tmvld\OneDrive\바탕 화면\SHARP\OMOK\obj\Debug\OMOK.exe
 C:\Users\tmvld\OneDrive\바탕 화면\SHARP\OMOK\obj\Debug\OMOK.pdb
+D:\Dongs\Projects\omok\OMOK\bin\Debug\OMOK.exe.config
+D:\Dongs\Projects\omok\OMOK\bin\Debug\OMOK.exe
+D:\Dongs\Projects\omok\OMOK\bin\Debug\OMOK.pdb
+D:\Dongs\Projects\omok\OMOK\obj\Debug\OMOK.csprojAssemblyReference.cache
+D:\Dongs\Projects\omok\OMOK\obj\Debug\OMOK.csproj.CoreCompileInputs.cache
+D:\Dongs\Projects\omok\OMOK\obj\Debug\OMOK.exe
+D:\Dongs\Projects\omok\OMOK\obj\Debug\OMOK.pdb
